@@ -8,6 +8,6 @@ First of all, let's list down all the major topics that I learned today in a seq
 - How does React work?
 </br>
 Let's get through each of these topics one by one.</br>
-## What is React?
+**What is React?**</br>
 React is a javascript library. Now, *what actually a javascript library is?*</br>
 All of us has visited zillion of webpages.
