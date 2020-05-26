@@ -9,5 +9,5 @@ Happy Learning!!</br>
 ## Day-1
 *Date - 25/05/2020*</br>
 Today, I've learned about the basics of React and why choose React.</br>
-So, deep-dive into my learning [**here**](#).</br>
+So, deep-dive into my learning [**here**](https://github.com/noobyogi0010/100-Days-of-React/blob/master/Day%201/IntroductionToReact.md).</br>
 Bye!!</br>
