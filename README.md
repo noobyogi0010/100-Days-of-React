@@ -14,5 +14,5 @@ Bye!!</br>
 ## Day-2
 *Date - 26/05/2020*</br>
 Today, I setup the environment for React development.</br>
-So, let's learn and build out your environment [here](https://github.com/noobyogi0010/100-Days-of-React/blob/master/Day%202/PreparingEnvironment.md).</br>
+So, let's learn and build out your environment [**here**](https://github.com/noobyogi0010/100-Days-of-React/blob/master/Day%202/PreparingEnvironment.md).</br>
 Bye!!</br>
